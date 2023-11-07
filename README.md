@@ -5,7 +5,7 @@ Hey, I'm Fabian.
 I love coding and software architecture in my professional and personal life. 👜🎈
 
 Look, I built an iOS app in my freetime 💻  :
- - [Run Be Fit](https://apps.apple.com/es/app/run-be-fit/id6463439731): *A simple run tracker that cares about your privacy. Stay fit and healthy!*
+ - [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731): *A simple run tracker that cares about your privacy. Stay fit and healthy!*
 
 Here are some impressions 🥇 :
 
