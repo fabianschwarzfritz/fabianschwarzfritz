@@ -4,6 +4,9 @@ Hey, I'm Fabian.
 
 I like to write code and accelerate companies using software 😄🎈💻
 
+Sometimes, I also make small Youtube Videos:
+ - Youtube: https://www.youtube.com/fabianschwarzfritz
+
 Look, I built an iOS app in my freetime 💻  :
  - [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731): *A simple run tracker that cares about your privacy. Stay fit and healthy!*
 
