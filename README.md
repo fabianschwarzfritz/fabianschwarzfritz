@@ -19,6 +19,7 @@ Here are some impressions 🥇 :
 -->
 
 Drop me a note if you want to have a chat: fabian@schwarz-fritz.de . 📫
+
 Find more details and links on my website [fabianschwarzfritz.github.io](https://fabianschwarzfritz.github.io/)
 
 <!--
