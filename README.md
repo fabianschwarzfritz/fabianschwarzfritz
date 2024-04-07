@@ -9,6 +9,9 @@ I occasionally create small **Youtube** Videos:
 I built **iOS** apps 💻  :
  - [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731): *A simple run tracker that cares about your privacy. Stay fit and healthy!*
 
+I support citizen science with my scuba diving hobby:
+ - [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/)
+
 <!--
 Here are some impressions 🥇 :
 <img src="https://github.com/fabianschwarzfritz/fabianschwarzfritz/assets/1759672/dc948f31-ff5c-4605-9409-d928970825a3" width="120" />
