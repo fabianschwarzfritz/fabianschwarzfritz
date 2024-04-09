@@ -1,16 +1,10 @@
 ### Hey, I'm Fabian 👋
 
-I run a little **SaaS** 🏄:
- - [www.LogoMitKi.de](https://www.logomitki.de/): *A simple SaaS to create images with AI*
-
-I occasionally create small **Youtube** Videos:
- - Youtube: https://www.youtube.com/fabianschwarzfritz
-
-I built **iOS** apps 💻  :
- - [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731): *A simple run tracker that cares about your privacy. Stay fit and healthy!*
-
-I support citizen science with my scuba diving hobby:
- - [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/)
+I run a little several things:
+ - **SaaS** 🏄: [www.LogoMitKi.de](https://www.logomitki.de/) *A simple SaaS to create images with AI*
+ - **Youtube** Videos 📷: [youtube.com/fabianschwarzfritz](https://www.youtube.com/fabianschwarzfritz) *Some simple youtube tutorials*.
+ - **iOS** apps 💻: [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731) *A simple run tracker that cares about your privacy. Stay fit and healthy!*
+ - **citizen science**: [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/) *I support citizen science with my scuba diving hobby*
 
 <!--
 Here are some impressions 🥇 :
@@ -21,9 +15,7 @@ Here are some impressions 🥇 :
 <img src="https://github.com/fabianschwarzfritz/fabianschwarzfritz/assets/1759672/bb2277d4-5cb9-4d76-96ae-e8c2c6df73cd" width="120" />
 -->
 
-Drop me a note if you want to have a chat: fabian@schwarz-fritz.de . 📫
-
-Find more details and links on my website [fabianschwarzfritz.github.io](https://fabianschwarzfritz.github.io/)
+Drop me a note if you want to have a chat: fabian@schwarz-fritz.de 📫. Or visit my website [fabianschwarzfritz.github.io](https://fabianschwarzfritz.github.io/) 🏄.
 
 <!--
 **fabianschwarzfritz/fabianschwarzfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
