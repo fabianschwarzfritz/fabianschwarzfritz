@@ -3,7 +3,8 @@
 I run a little several things:
  - **SaaS** 🏄: [www.LogoMitKi.de](https://www.logomitki.de/) *A simple SaaS to create images with AI*
  - **Youtube** Videos 📷: [youtube.com/fabianschwarzfritz](https://www.youtube.com/fabianschwarzfritz) *Some simple youtube tutorials*.
- - **iOS** apps 💻: [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731) *A simple run tracker that cares about your privacy. Stay fit and healthy!*
+ - **iOS** app 📱: [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731) *A run tracker that cares about your privacy. Stay fit and healthy!*
+ - **iOS** app 📱: [Panda's Pairs](https://apps.apple.com/de/app/pandas-pairs/id6480473667) *A fun memory game for train rides*
  - **citizen science**: [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/) *I support citizen science with my scuba diving hobby*
 
 <!--
