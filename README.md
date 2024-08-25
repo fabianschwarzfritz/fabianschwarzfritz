@@ -18,7 +18,8 @@ Here are some impressions 🥇 :
 <img src="https://github.com/fabianschwarzfritz/fabianschwarzfritz/assets/1759672/bb2277d4-5cb9-4d76-96ae-e8c2c6df73cd" width="120" />
 -->
 
-Drop me a note if you want to have a chat: fabian@schwarz-fritz.de 📫. Or visit my website [fabianschwarzfritz.github.io](https://fabianschwarzfritz.github.io/) 🏄.
+Drop me a note if you want to have a chat: fabian@schwarz-fritz.de 📫.
+Or visit my website [fabianschwarzfritz.github.io](https://fabianschwarzfritz.github.io/) 🏄.
 
 <!--
 **fabianschwarzfritz/fabianschwarzfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
