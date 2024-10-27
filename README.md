@@ -7,7 +7,7 @@ I run a little several things:
  - **citizen science**: [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/) *I support citizen science with my scuba diving hobby*
 
 Currently paused:
- - **SaaS** 🏄: [www.LogoMitKi.de](https://www.logomitki.de/) *A simple SaaS to create images with AI*
+ - **SaaS** 🏄: [www.conferenda.com](https://www.conferenda.com/) *A simple tool for digitalizing conferences*
 
 <!--
 Here are some impressions 🥇 :
