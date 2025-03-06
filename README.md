@@ -1,13 +1,11 @@
 ### Hey, I'm Fabian 👋
 
 I run a little several things:
+ - **SaaS** 🏄: [www.conferenda.com](https://www.conferenda.com/) *A simple tool for digitalizing conferences*
  - **iOS** app 📱: [Run Be Fit](https://apps.apple.com/en/app/run-be-fit/id6463439731) *A run tracker that cares about your privacy. Stay fit and healthy!*
  - **iOS** app 📱: [Panda's Pairs](https://apps.apple.com/de/app/pandas-pairs/id6480473667) *A fun memory game for train rides*
  - **Youtube** Videos 📷: [youtube.com/fabianschwarzfritz](https://www.youtube.com/fabianschwarzfritz) *Some simple youtube tutorials*.
  - **citizen science**: [www.projectbaselinerheinauersee.de](https://projectbaselinerheinauersee.de/) *I support citizen science with my scuba diving hobby*
-
-Currently paused:
- - **SaaS** 🏄: [www.conferenda.com](https://www.conferenda.com/) *A simple tool for digitalizing conferences*
 
 <!--
 Here are some impressions 🥇 :
